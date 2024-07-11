@@ -1,0 +1,6 @@
+Report
+Input Sample Sequence: CG
+Found Sequences : 5
+ACCCTACGACGCCACATAGGACGTAGCTAGCTAGGATCGACGCCCACAAGGT << File Sample
+      || ||          ||              || ||           << Link
+TGGGATGCTGCGGTGTATCCTGCATCGATCGATCCTAGCTGCGGGTGTTCCA << Complementary Sequence
