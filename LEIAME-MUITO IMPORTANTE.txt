@@ -1,0 +1,29 @@
+Espero que esteja lendo este arquivo importante
+O programa foi feito com a linguagem Object Pascal em modo console na IDE Lazarus (www.lazarus-ide.org)
+Você pode baixar o Lazarus e recompilar da forma ue você quiser.
+--------------------------------------------------------------------------------------------------------------------------------------
+1)O arquivo de entrada pode ser um arquivo de texto simples onde o conteudo seja apenas as sequencias
+de bases nucleicas (DNA).Não deve conter nenhum outro tipo de dado,nem mesmo nomes de campos.
+Não pode ser arquivo FASTA.
+--------------------------------------------------------------------------------------------------------------------------------------
+2)Quando a sequencia é muito grande,o formato apresentado na tela não ficará bonito,MAS poderá
+ser salvo para arquivo onde o formato correto sempre se manterá fiel.O arquivo deve ser aberto no "Bloco de Notas"
+e deve configurar no menu e desmarcar "Formatar>Quebra automatica de linha"
+(Sem quebra de linha)
+--------------------------------------------------------------------------------------------------------------------------------------
+3)O dado de entrada não deve conter espaço em branco
+--------------------------------------------------------------------------------------------------------------------------------------
+4)Mesmo que o conteudo do arquivo de entrada estiver em mais de uma linha,todo arquivo será
+considerado como uma sequencia única.Exemplo:
+caso esteja assim:
+CGTGG
+ACCGT
+
+será considerado assim:
+CGTGGACCGT
+--------------------------------------------------------------------------------------------------------------------------------------
+
+5)Aplicativo foi testado em todos os aspectos.
+--------------------------------------------------------------------------------------------------------------------------------------
+PIX (31) 97183-9384
+Almir Bispo
