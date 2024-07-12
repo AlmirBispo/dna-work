@@ -1,2 +1,2 @@
 # dna-work
-Trablho com genetica
+Trabalho com genetica
